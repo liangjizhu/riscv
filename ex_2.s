@@ -1,5 +1,5 @@
-# Liang Ji Zhu 100495723
-# Javier Diez Arredondo 100495833
+# Carlos III University of Madrid
+# Computer Structure
 # Practice 1: Assembly Programming
 # Exercise 2
 
